@@ -84,10 +84,11 @@ public class ANumberQuestions {
     // D E F
     // G H I J
     // K L M N O
-    // K L M N
     // G H I J
     // D E F
     // B C
     // A
+
+
   }
 }
