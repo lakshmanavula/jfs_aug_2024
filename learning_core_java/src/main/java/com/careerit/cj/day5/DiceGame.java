@@ -18,6 +18,11 @@ public class DiceGame {
         if(i == 3) {
           System.out.println("Sorry! you have reached maximum attempts, the number is :" + generatedNum);
         }else {
+          if(userNum > generatedNum) {
+            System.out.println("Your guess is greater than generated number");
+          }else {
+            System.out.println("Your guess is less than generated number");
+          }
           System.out.println("Try again, you have " + (3 - i) + " attempts left");
         }
       }
