@@ -8,6 +8,7 @@
     <modules>
         <module>learning_core_java</module>
         <module>quiz_app</module>
+        <module>assignment-questions</module>
     </modules>
     <version>1.0-SNAPSHOT</version>
 
